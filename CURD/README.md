@@ -12,7 +12,7 @@ npm install express --save
 + 使用示例
 
 
-```js
+```javascript
 const express = require('express)
 
 var app = express()
@@ -255,3 +255,9 @@ callback = function(err){}
 | deleteById | (id,callback) | 根据传入的id删除相关数据 |
 
 
+## 项目预览
+![](https://ws4.sinaimg.cn/large/006tKfTcly1g0hwda49cgj30ll0bmwey.jpg)
+
+![](https://ws3.sinaimg.cn/large/006tKfTcly1g0hwdt5s55j311g0dddhd.jpg)
+
+![](https://ws1.sinaimg.cn/large/006tKfTcly1g0hwe2348mj30wt0ef0tb.jpg)
